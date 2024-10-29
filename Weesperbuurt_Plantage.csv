@@ -1,0 +1,309 @@
+﻿Government, education, care;Business;325;Number;2023
+Businesses transport, information, communication;Business;245;Number;2023
+Businesses trade and catering;Business;230;Number;2023
+Businesses total;Business;2,32;Number;2023
+Businesses industry and energy;Business;60;Number;2023
+Businesses financial services, real estate;Business;225;Number;2023
+Businesses culture, recreation, other services;Business;410;Number;2023
+Businesses business services;Business;820;Number;2023
+Businesses agriculture, forestry, fishing;Business;0;Number;2023
+Crime violence and sexual abuse;Crime;49;Number;2023
+Crime traffic;Crime;70;Number;2023
+Crime total;Crime;873;Number;2023
+Crime theft;Crime;616;Number;2023
+Crime scam;Crime;62;Number;2023
+Crime other;Crime;32;Number;2023
+Crime environmental;Crime;1;Number;2023
+Crime destruction;Crime;43;Number;2023
+Undetermined energy label;Energy consumption;495;Number;2024
+Provisional energy label;Energy consumption;1,647;Number;2024
+Percentage homes with district heating;Energy consumption;0;Percentage;2013
+Final energy labels;Energy consumption;3,247;Number;2024
+Energy label G;Energy consumption;1,429;Number;2024
+Energy label F;Energy consumption;215;Number;2024
+Energy label E;Energy consumption;307;Number;2024
+Energy label D;Energy consumption;364;Number;2024
+Energy label C;Energy consumption;905;Number;2024
+Energy label B;Energy consumption;740;Number;2024
+Energy label A+++++;Energy consumption;0;Number;2024
+Energy label A++++;Energy consumption;1;Number;2024
+Energy label A+++;Energy consumption;253;Number;2024
+Energy label A++;Energy consumption;83;Number;2024
+Energy label A+;Energy consumption;50;Number;2024
+Energy label A;Energy consumption;547;Number;2024
+Average natural gas usage total;Energy consumption;850;Average in kWh;2022
+Average natural gas usage terraced homes;Energy consumption;1,62;Average in kWh;2022
+Average natural gas usage semi-detached homes;Energy consumption;2,21;Average in kWh;2015
+Average natural gas usage rental homes;Energy consumption;770;Average in kWh;2022
+Average natural gas usage owner-occupied homes;Energy consumption;990;Average in kWh;2022
+Average natural gas usage detached homes;Energy consumption;1,81;Average in kWh;2022
+Average natural gas usage corner homes;Energy consumption;1,74;Average in kWh;2022
+Average natural gas usage apartment;Energy consumption;830;Average in kWh;2022
+Average electricity usage total;Energy consumption;1,99;Average number per km²;2022
+Average electricity usage terraced homes;Energy consumption;3,86;Average number per km²;2022
+Average electricity usage semi-detached homes;Energy consumption;4,16;Average number per km²;2015
+Average electricity usage rental homes;Energy consumption;1,76;Average number per km²;2022
+Average electricity usage owner-occupied homes;Energy consumption;2,4;Average number per km²;2022
+Average electricity usage detached homes;Energy consumption;4,37;Average number per km²;2022
+Average electricity usage corner homes;Energy consumption;3,29;Average number per km²;2022
+Average electricity usage apartment;Energy consumption;1,95;Average number per km²;2022
+Single-person households;Households;3,17;Number;2024
+Households without children;Households;1,27;Number;2024
+Households with children;Households;625;Number;2024
+Households total;Households;5,06;Number;2024
+Average household size;Households;1.50;Average number;2024
+Unknown dwelling type;Houses;0;Number;2024
+Terraced or linked dwelling type;Houses;90;Number;2024
+Semi-detached dwelling type;Houses;4;Number;2024
+Percentage uninhabited;Houses;0,12;Percentage;2023
+Percentage single-family houses;Houses;0,02;Percentage;2023
+Percentage rented homes;Houses;0,67;Percentage;2023
+Percentage rental-housing by corporation;Houses;0,27;Percentage;2023
+Percentage privately owned homes;Houses;0,32;Percentage;2023
+Percentage multi-family houses;Houses;0,98;Percentage;2023
+Percentage inhabited;Houses;0,88;Percentage;2023
+Percentage homes other rental;Houses;0,4;Percentage;2023
+Percentage homes built since 2000;Houses;0,05;Percentage;2023
+Percentage homes built before 2000;Houses;0,95;Percentage;2023
+Ownership unknown;Houses;0;Percentage;2023
+Not applicable dwelling type;Houses;517;Number;2024
+Housing stock;Houses;4,66;Number;2023
+Different dwelling type;Houses;0;Number;2024
+Detached dwelling type;Houses;10;Number;2024
+Corner dwelling type;Houses;17;Number;2024
+Average house value;Houses;656;Average number;2023
+Apartment dwelling type;Houses;4,659;Number;2024
+Persons with social security welfare;Income;130;Number;2023
+Persons with social security for unemployed;Income;90;Number;2023
+Persons with social security for incapacity for work;Income;170;Number;2023
+Persons with social security for elderly;Income;1,28;Number;2023
+Percentage self-employed;Income;0,27;Percentage;2022
+Percentage households with a low income;Income;5.5%;Percentage;2022
+Percentage households at social minimum;Income;0,09;Percentage;2022
+Percentage employees;Income;0,73;Percentage;2022
+Number of income receivers;Income;6;Number;2022
+Net labor participation;Income;0,65;Percentage;2022
+Median capital assets of private households;Income;37;x 1,000 Euro;2022
+Households up to 120% of the social minimum;Income;0,14;Percentage;2022
+Households up to 110% of the social minimum;Income;0,12;Percentage;2022
+Average income per inhabitant;Income;47,9;Average number;2022
+Average income per income recipient;Income;54,2;Average number;2022
+Active persons 15-75 years;Income;0,46;Percentage;2022
+40 percentile persons with lowest income;Income;0,35;Percentage;2022
+40 percentile households with lowest income;Income;0,47;Percentage;2022
+20 percentile persons with highest income;Income;0,33;Percentage;2022
+20 percentile households with highest income;Income;0,22;Percentage;2022
+Western total;Migration;2,12;Number;2022
+Turkey;Migration;80;Number;2022
+Suriname;Migration;185;Number;2022
+Other non-western;Migration;730;Number;2022
+Origin outside Netherlands;Migration;3,835;Number;2024
+Origin outside Europe;Migration;1,99;Number;2024
+Origin Netherlands;Migration;4,19;Number;2024
+Origin Europe;Migration;1,845;Number;2024
+Non-western total;Migration;1,12;Number;2022
+Native Dutch;Migration;4,07;Number;2022
+Morocco;Migration;65;Number;2022
+Dutch Antilles and Aruba;Migration;60;Number;2022
+Born outside Netherlands origin outside Europe;Migration;1,305;Number;2024
+Born outside Netherlands origin Europe;Migration;1,435;Number;2024
+Born in Netherlands origin outside Europe;Migration;685;Number;2024
+Born in Netherlands origin Europe;Migration;405;Number;2024
+Born in Netherlands;Migration;4,19;Number;2024
+Young people with youth care in kind;Population;70;Number;2022
+Women;Population;4,025;Number;2024
+WMO clients relative;Population;70;Number per 1000 inhabitants;2022
+WMO clients;Population;515;Number;2022
+Widowed;Population;225;Number;2024
+Percentage young people with youth care;Population;4.90%;Percentage;2022
+Not married;Population;5,545;Number;2024
+Mortality total;Population;100;Number;2023
+Mortality relative;Population;13;Number per 1000 inhabitants;2023
+Men;Population;4;Number;2024
+Married;Population;1,72;Number;2024
+Inhabitants;Population;8,02;Number;2024
+Education level medium;Population;1,49;Number;2022
+Education level low;Population;670;Number;2022
+Education level high;Population;4,44;Number;2022
+Divorced;Population;530;Number;2024
+Births total;Population;70;Number;2023
+Births relative;Population;9;Number per 1000 inhabitants;2023
+Ages 65 and up;Population;1,46;Number;2024
+Ages 45 - 65;Population;1,72;Number;2024
+Ages 25 - 45;Population;3;Number;2024
+Ages 15 - 25;Population;1,22;Number;2024
+Ages 0 - 15;Population;620;Number;2024
+Train station distance;Proximity;1.90;Average in Euro;2022
+Tanning salon distance;Proximity;1;Average number;2023
+Swimming pool distance;Proximity;1.60;Average in Euro;2023
+Sports field distance;Proximity;2.90;Average in Euro;2017
+Snack bars within 5 km;Proximity;655;Average number;2023
+Snack bars within 3 km;Proximity;391;Average number;2023
+Snack bars within 1 km;Proximity;15;Average number;2023
+Snack bar distance;Proximity;0.40;Average in Euro;2023
+Semi-public green space total distance;Proximity;2.30;Average in Euro;2017
+Secondary education VMBO within 5 km;Proximity;26;Average number;2022
+Secondary education VMBO within 3 km;Proximity;11;Average number;2022
+Secondary education VMBO within 10 km;Proximity;58;Average number;2022
+Secondary education VMBO distance;Proximity;1.10;Average in Euro;2022
+Secondary education total within 5 km;Proximity;41;Average number;2022
+Secondary education total within 3 km;Proximity;17;Average number;2022
+Secondary education total within 10 km;Proximity;79;Average number;2022
+Secondary education total distance;Proximity;1.10;Average in Euro;2022
+Secondary education HAVO VWO within 5 km;Proximity;28;Average number;2022
+Secondary education HAVO VWO within 3 km;Proximity;12;Average number;2022
+Secondary education HAVO VWO within 10 km;Proximity;53;Average number;2022
+Secondary education HAVO VWO distance;Proximity;1.10;Average in Euro;2022
+Sauna distance;Proximity;2;Average number;2023
+Restaurants within 5 km;Proximity;1,845;Average number;2023
+Restaurants within 3 km;Proximity;1,064;Average number;2023
+Restaurants within 1 km;Proximity;41;Average number;2023
+Restaurant distance;Proximity;0.30;Average in Euro;2023
+Residential recreational area distance;Proximity;4.80;Average in Euro;2017
+Recreational inland water distance;Proximity;1.00;Average in Euro;2017
+Public green space total distance;Proximity;0.40;Average in Euro;2017
+Primary education within 5 km;Proximity;74;Average number;2022
+Primary education within 3 km;Proximity;30;Average number;2022
+Primary education within 1 km;Proximity;2;Average number;2022
+Primary education distance;Proximity;0.60;Average in Euro;2022
+Pop venue distance;Proximity;2;Average number;2022
+Pharmacy distance;Proximity;0.70;Average in Euro;2022
+Performing arts within 5 km;Proximity;34;Average number;2022
+Performing arts within 20 km;Proximity;59;Average number;2022
+Performing arts within 10 km;Proximity;51;Average number;2022
+Performing arts distance;Proximity;0.80;Average in Euro;2022
+Park or garden distance;Proximity;0.50;Average in Euro;2017
+Other daily groceries within 5 km;Proximity;888;Average number;2023
+Other daily groceries within 3 km;Proximity;471;Average number;2023
+Other daily groceries within 1 km;Proximity;11;Average number;2023
+Other daily groceries distance;Proximity;0.40;Average in Euro;2023
+Open wet natural area distance;Proximity;6.20;Average in Euro;2017
+Open natural area total distance;Proximity;6.20;Average in Euro;2017
+Open dry natural area distance;Proximity;7.20;Average in Euro;2017
+Museums within 5 km;Proximity;44;Average number;2022
+Museums within 20 km;Proximity;62;Average number;2022
+Museums within 10 km;Proximity;48;Average number;2022
+Museum distance;Proximity;0.50;Average in Euro;2022
+Major transfer station distance;Proximity;2.30;Average in Euro;2022
+Main road access distance;Proximity;4.10;Average in Euro;2022
+Library distance;Proximity;1.60;Average in Euro;2023
+Large supermarkets within 5 km;Proximity;141;Average number;2023
+Large supermarkets within 3 km;Proximity;77;Average number;2023
+Large supermarkets within 1 km;Proximity;4;Average number;2023
+Large supermarket distance;Proximity;0.60;Average in Euro;2023
+Hotels within 5 km;Proximity;361.80;Average in Euro;2022
+Hotels within 20 km;Proximity;500;Average number;2022
+Hotels within 10 km;Proximity;434;Average number;2022
+Hotel distance;Proximity;0;Average number;2022
+Hospitals within 5 km;Proximity;1;Average number;2022
+Hospitals within 20 km;Proximity;9;Average number;2022
+Hospitals within 10 km;Proximity;6;Average number;2022
+Hospitals with outpatient clinic within 5 km;Proximity;2;Average number;2022
+Hospitals with outpatient clinic within 20 km;Proximity;12;Average number;2022
+Hospitals with outpatient clinic within 10 km;Proximity;7;Average number;2022
+Hospital with outpatient clinic distance;Proximity;1.40;Average in Euro;2022
+Hospital distance;Proximity;1.40;Average in Euro;2022
+General practitioners within 5 km;Proximity;113;Average number;2022
+General practitioners within 3 km;Proximity;56;Average number;2022
+General practitioners within 1 km;Proximity;3;Average number;2022
+Forest distance;Proximity;3.10;Average in Euro;2017
+Fire station distance;Proximity;2;Average number;2022
+Distance to general practitioner post;Proximity;1.40;Average in Euro;2022
+Distance to general practitioner;Proximity;0.60;Average in Euro;2022
+Department stores within 5 km;Proximity;12;Average number;2022
+Department stores within 20 km;Proximity;35;Average number;2022
+Department stores within 10 km;Proximity;26;Average number;2022
+Department store distance;Proximity;1.50;Average in Euro;2022
+Daycares within 5 km;Proximity;253;Average number;2023
+Daycares within 3 km;Proximity;100;Average number;2023
+Daycares within 1 km;Proximity;5;Average number;2023
+Daycare distance;Proximity;0.50;Average in Euro;2023
+Day recreational area distance;Proximity;0.60;Average in Euro;2017
+Cinemas within 5 km;Proximity;11;Average number;2023
+Cinemas within 20 km;Proximity;18;Average number;2023
+Cinemas within 10 km;Proximity;14;Average number;2023
+Cinema distance;Proximity;0.70;Average in Euro;2023
+Cemetery distance;Proximity;3.10;Average in Euro;2017
+Cafes within 5 km;Proximity;606;Average number;2023
+Cafes within 3 km;Proximity;396;Average number;2023
+Cafes within 1 km;Proximity;15;Average number;2023
+Cafe distance;Proximity;0.40;Average in Euro;2023
+Attractions within 50 km;Proximity;67;Average number;2022
+Attractions within 20 km;Proximity;17;Average number;2022
+Attractions within 10 km;Proximity;7;Average number;2022
+Attraction distance;Proximity;0.70;Average in Euro;2022
+Artificial ice rink distance;Proximity;3.80;Average in Euro;2022
+Allotment garden distance;Proximity;2.30;Average in Euro;2017
+After-school care within 5 km;Proximity;129;Average number;2023
+After-school care within 3 km;Proximity;51;Average number;2023
+After-school care within 1 km;Proximity;3;Average number;2023
+After-school care distance;Proximity;0.50;Average in Euro;2023
+Zipcode area;Regional;1011PW-1018ZV;Name;2024
+Surface water;Regional;14;Number of hectares;2024
+Surface total;Regional;92;Number of hectares;2024
+Surface land;Regional;78;Number of hectares;2024
+Stand locations;Regional;0;Number;2024
+Sort code;Regional;0363AJ00;Code;2024
+Residential objects;Regional;5,297;Number;2024
+Region type;Regional;Wijk;Categorical type;2024
+Region name;Regional;Weesperbuurt/Plantage;Name;2024
+Region code;Regional;WK0363AJ;Code;2024
+Population density;Regional;10,282;Number per km²;2024
+Passenger cars per surface;Regional;2,609;Number;2024
+Parcels with address;Regional;986;Number;2024
+Most common zipcode;Regional;1018;Name;2024
+Degree of urbanization;Regional;1;Indicator 1-5;2024
+Coverage percentage most common zipcode;Regional;1;Percentage;2024
+Buildings with address;Regional;982;Number;2024
+Buildings built from 2020 onwards;Regional;5;Number;2024
+Buildings built from 2010 to 2020;Regional;33;Number;2024
+Buildings built from 2000 to 2010;Regional;210;Number;2024
+Buildings built from 1990 to 2000;Regional;469;Number;2024
+Buildings built from 1980 to 1990;Regional;576;Number;2024
+Buildings built from 1970 to 1980;Regional;76;Number;2024
+Buildings built from 1950 to 1970;Regional;217;Number;2024
+Buildings built from 1925 to 1950;Regional;114;Number;2024
+Buildings built from 1900 to 1925;Regional;848;Number;2024
+Buildings built from 1700 to 1900;Regional;2,677;Number;2024
+Buildings built before 1700;Regional;53;Number;2024
+Buildings before 1700;Regional;19;Number;2024
+Buildings 2020 and later;Regional;2;Number;2024
+Buildings 2010 to 2020;Regional;29;Number;2024
+Buildings 2000 to 2010;Regional;13;Number;2024
+Buildings 1990 to 2000;Regional;39;Number;2024
+Buildings 1980 to 1990;Regional;46;Number;2024
+Buildings 1970 to 1980;Regional;15;Number;2024
+Buildings 1950 to 1970;Regional;29;Number;2024
+Buildings 1925 to 1950;Regional;27;Number;2024
+Buildings 1900 to 1925;Regional;135;Number;2024
+Buildings 1700 to 1900;Regional;628;Number;2024
+Berth locations;Regional;92;Number;2024
+Addresses within built-up area;Regional;5,389;Number;2024
+Addresses with sports function;Regional;8;Number;2024
+Addresses with retail function;Regional;54;Number;2024
+Addresses with residential function within built-up area;Regional;4,78;Number;2024
+Addresses with residential function outside built-up area;Regional;0;Number;2024
+Addresses with residential function;Regional;4,78;Number;2024
+Addresses with postal code;Regional;5,355;Number;2024
+Addresses with parcel;Regional;5,389;Number;2024
+Addresses with other usage function;Regional;134;Number;2024
+Addresses with office function;Regional;151;Number;2024
+Addresses with meeting function;Regional;91;Number;2024
+Addresses with lodging function;Regional;37;Number;2024
+Addresses with industrial function;Regional;66;Number;2024
+Addresses with healthcare function;Regional;19;Number;2024
+Addresses with educational function;Regional;31;Number;2024
+Addresses with cell function;Regional;0;Number;2024
+Addresses with building;Regional;5,278;Number;2024
+Addresses total;Regional;5,389;Number;2024
+Addresses outside built-up area;Regional;0;Number;2024
+Address density;Regional;7,99;Average distance in km;2024
+Traffic accidents total;Traffic accidents;53;Number;2022
+Traffic accidents only material damage;Traffic accidents;41;Number;2022
+Traffic accidents injuries;Traffic accidents;12;Number;2022
+Traffic accidents deadly;Traffic accidents;0;Number;2022
+Passenger cars total;Transport;2,035;Number;2024
+Passenger cars petrol;Transport;1,28;Number;2024
+Passenger cars per household;Transport;0.40;Number;2024
+Passenger cars other fuel;Transport;755;Number;2024
+Motorcycles;Transport;140;Number;2024
