@@ -1,0 +1,123 @@
+Topic,Category,Value,Unit,Year
+Businesses agriculture, forestry, fishing,Business,0,Number,2023
+Businesses industry and energy,Business,110,Number,2023
+Businesses trade and catering,Business,545,Number,2023
+Businesses transport, information, communication,Business,250,Number,2023
+Businesses financial services, real estate,Business,325,Number,2023
+Businesses business services,Business,895,Number,2023
+Government, education, care,Business,310,Number,2023
+Businesses culture, recreation, other services,Business,420,Number,2023
+Crime theft,Crime,1331,Number,2023
+Crime violence and sexual abuse,Crime,263,Number,2023
+Crime environmental,Crime,1,Number,2023
+Crime scam,Crime,58,Number,2023
+Crime traffic,Crime,115,Number,2023
+Crime destruction,Crime,74,Number,2023
+Crime other,Crime,185,Number,2023
+Crime total,Crime,2027,Number,2023
+Average electricity usage total,Energy consumption,2.1,Average number per km²,2022
+Average electricity usage apartment,Energy consumption,2.01,Average number per km²,2022
+Average electricity usage terraced homes,Energy consumption,3.29,Average number per km²,2022
+Average electricity usage corner homes,Energy consumption,3.2,Average number per km²,2022
+Average electricity usage semi-detached homes,Energy consumption,4.16,Average number per km²,2015
+Average electricity usage detached homes,Energy consumption,3.54,Average number per km²,2015
+Average electricity usage rental homes,Energy consumption,1.85,Average number per km²,2022
+Average electricity usage owner-occupied homes,Energy consumption,2.54,Average number per km²,2022
+Average natural gas usage total,Energy consumption,920,Average in kWh,2022
+Average natural gas usage apartment,Energy consumption,860,Average in kWh,2022
+Average natural gas usage terraced homes,Energy consumption,1.69,Average in kWh,2022
+Average natural gas usage corner homes,Energy consumption,1.58,Average in kWh,2022
+Average natural gas usage semi-detached homes,Energy consumption,2.21,Average in kWh,2015
+Average natural gas usage detached homes,Energy consumption,2.31,Average in kWh,2015
+Average natural gas usage rental homes,Energy consumption,830,Average in kWh,2022
+Average natural gas usage owner-occupied homes,Energy consumption,1.06,Average in kWh,2022
+Percentage homes with district heating,Energy consumption,0,Percentage,2013
+Undetermined energy label,Energy consumption,863,Number,2024
+Provisional energy label,Energy consumption,2095,Number,2024
+Final energy labels,Energy consumption,3038,Number,2024
+Energy label A+++++,Energy consumption,0,Number,2024
+Energy label A++++,Energy consumption,0,Number,2024
+Energy label A+++,Energy consumption,10,Number,2024
+Energy label A++,Energy consumption,30,Number,2024
+Energy label A+,Energy consumption,79,Number,2024
+Energy label A,Energy consumption,594,Number,2024
+Energy label B,Energy consumption,565,Number,2024
+Energy label C,Energy consumption,889,Number,2024
+Energy label D,Energy consumption,403,Number,2024
+Energy label E,Energy consumption,407,Number,2024
+Energy label F,Energy consumption,406,Number,2024
+Energy label G,Energy consumption,1.75,Number,2024
+Households total,Households,4945,Number,2024
+Single-person households,Households,3045,Number,2024
+Households without children,Households,1.29,Number,2024
+Households with children,Households,615,Number,2024
+Average household size,Households,1.6,Average number,2024
+Housing stock,Houses,4757,Number,2023
+Average house value,Houses,723,Average number,2023
+Percentage single-family houses,Houses,0.0007,Percentage,2023
+Percentage multi-family houses,Houses,0.0093,Percentage,2023
+Percentage inhabited,Houses,0.0086,Percentage,2023
+Percentage uninhabited,Houses,0.0014,Percentage,2023
+Percentage privately owned homes,Houses,0.0037,Percentage,2023
+Percentage rented homes,Houses,0.0062,Percentage,2023
+Percentage rental-housing by corporation,Houses,0.001,Percentage,2023
+Percentage homes other rental,Houses,0.0052,Percentage,2023
+Ownership unknown,Houses,0.0001,Percentage,2023
+Percentage homes built before 2000,Houses,0.0095,Percentage,2023
+Percentage homes built since 2000,Houses,0.0005,Percentage,2023
+Apartment dwelling type,Houses,4438,Number,2024
+Terraced or linked dwelling type,Houses,379,Number,2024
+Corner dwelling type,Houses,40,Number,2024
+Semi-detached dwelling type,Houses,9,Number,2024
+Detached dwelling type,Houses,4,Number,2024
+Different dwelling type,Houses,0,Number,2024
+Unknown dwelling type,Houses,0,Number,2024
+Not applicable dwelling type,Houses,1049,Number,2024
+Net labor participation,Income,0.0068,Percentage,2022
+Percentage employees,Income,0.0075,Percentage,2022
+Percentage self-employed,Income,0.0025,Percentage,2022
+Number of income receivers,Income,6.3,Number,2022
+Average income per income recipient,Income,60.5,Average number,2022
+Average income per inhabitant,Income,52.9,Average number,2022
+40 percentile persons with lowest income,Income,0.0031,Percentage,2022
+20 percentile persons with highest income,Income,0.0037,Percentage,2022
+Active persons 15-75 years,Income,0.0051,Percentage,2022
+40 percentile households with lowest income,Income,0.0043,Percentage,2022
+20 percentile households with highest income,Income,0.0025,Percentage,2022
+Percentage households with a low income,Income,0.055,Percentage,2022
+Percentage households at social minimum,Income,0.074,Percentage,2022
+Households up to 110% of the social minimum,Income,0.096,Percentage,2022
+Households up to 120% of the social minimum,Income,0.0011,Percentage,2022
+Median capital assets of private households,Income,41,"x 1,000 Euro",2022
+Persons with social security welfare,Income,90,Number,2023
+Persons with social security for incapacity for work,Income,110,Number,2023
+Persons with social security for unemployed,Income,100,Number,2023
+Persons with social security for elderly,Income,890,Number,2023
+Origin Netherlands,Migration,3645,Number,2024
+Origin outside Netherlands,Migration,4025,Number,2024
+Origin Europe,Migration,1945,Number,2024
+Origin outside Europe,Migration,2080,Number,2024
+Born in Netherlands,Migration,3645,Number,2024
+Born in Netherlands origin Europe,Migration,360,Number,2024
+Born in Netherlands origin outside Europe,Migration,650,Number,2024
+Born outside Netherlands origin Europe,Migration,1590,Number,2024
+Born outside Netherlands origin outside Europe,Migration,1435,Number,2024
+Native Dutch,Migration,3830,Number,2022
+Western total,Migration,2505,Number,2022
+Non-western total,Migration,1150,Number,2022
+Morocco,Migration,55,Number,2022
+Dutch Antilles and Aruba,Migration,75,Number,2022
+Suriname,Migration,110,Number,2022
+Turkey,Migration,105,Number,2022
+Other non-western,Migration,805,Number,2022
+Inhabitants,Population,7670,Number,2024
+Men,Population,3895,Number,2024
+Women,Population,3780,Number,2024
+Ages 0 - 15,Population,560,Number,2024
+Ages 15 - 25,Population,1140,Number,2024
+Ages 25 - 45,Population,3240,Number,2024
+Ages 45 - 65,Population,1700,Number,2024
+Ages 65 and up,Population,1035,Number,2024
+Not married,Population,5455,Number,2024
+Married,Population,1670,Number,2024
+Divorced,Population,420,Number,2024
